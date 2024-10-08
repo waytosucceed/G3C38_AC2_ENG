@@ -1,0 +1,242 @@
+[
+  {
+      "questionNo": "Q1.",
+      "question": "What do pierogi and ravioli have in common?",
+      "content":"People worldwide love dumplings, or pockets of dough stuffed with a filling. But different countries have their own ways of making them. For example, pierogi are a type of dumpling from Poland, while ravioli come from Italy. Ravioli are often stuffed with cheese and herbs. Pierogi, on the other hand, are commonly stuffed with mashed potatoes. They are also usually larger than most ravioli. No matter the size or what's inside, dumplings of all kinds are delicious!",
+      "options": [
+          "They're both from Italy",
+          "They're both types of dumplings",
+          "They're both filled with cheese",
+          "They're both the same size"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q2.",
+      "question": "How are pierogi different from ravioli?",
+      "content":"People worldwide love dumplings, or pockets of dough stuffed with a filling. But different countries have their own ways of making them. For example, pierogi are a type of dumpling from Poland, while ravioli come from Italy. Ravioli are often stuffed with cheese and herbs. Pierogi, on the other hand, are commonly stuffed with mashed potatoes. They are also usually larger than most ravioli. No matter the size or what's inside, dumplings of all kinds are delicious!",
+      "options": [
+          "Pierogi are usually larger",
+          "Ravioli are always square",
+          "Pierogi are served cold",
+          "Ravioli are not Italian"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q3.",
+      "question": "Where do pierogi come from?",
+      "content":"People worldwide love dumplings, or pockets of dough stuffed with a filling. But different countries have their own ways of making them. For example, pierogi are a type of dumpling from Poland, while ravioli come from Italy. Ravioli are often stuffed with cheese and herbs. Pierogi, on the other hand, are commonly stuffed with mashed potatoes. They are also usually larger than most ravioli. No matter the size or what's inside, dumplings of all kinds are delicious!",
+      "options": [
+          "Italy",
+          "France",
+          "Poland",
+          "United States"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q4.",
+      "question": "Associate things with 'Ravioli':",
+      "options": [
+          "Mashed potatoes",
+          "Cheese and herbs",
+          "Meat and vegetables",
+          "Fruit"
+      ],
+      "correct": 1,
+      "content":"People worldwide love dumplings, or pockets of dough stuffed with a filling. But different countries have their own ways of making them. For example, pierogi are a type of dumpling from Poland, while ravioli come from Italy. Ravioli are often stuffed with cheese and herbs. Pierogi, on the other hand, are commonly stuffed with mashed potatoes. They are also usually larger than most ravioli. No matter the size or what's inside, dumplings of all kinds are delicious!"
+  },
+  {
+      "questionNo": "Q5.",
+      "question": "How does the text help us understand the difference between pierogi and ravioli?",
+      "options": [
+          "By showing pictures",
+          "By describing their fillings and size",
+          "By telling us how they taste",
+          "By explaining how they're cooked"
+      ],
+      "content":"People worldwide love dumplings, or pockets of dough stuffed with a filling. But different countries have their own ways of making them. For example, pierogi are a type of dumpling from Poland, while ravioli come from Italy. Ravioli are often stuffed with cheese and herbs. Pierogi, on the other hand, are commonly stuffed with mashed potatoes. They are also usually larger than most ravioli. No matter the size or what's inside, dumplings of all kinds are delicious!",
+      "correct": 1
+  },
+  {
+      "questionNo": "Q6.",
+      "question": "What do both peanut butter and jelly sandwiches and tortas have in common?",
+      "options": [
+          "They're both from Mexico",
+          "They both have meat",
+          "They're both sandwiches",
+          "They're both the same size"
+      ],
+      "content":"People love sandwiches everywhere, but different countries make them in different ways. For example, in the United States, people often eat peanut butter and jelly sandwiches. These are made with peanut butter and sweet jelly spread between two slices of bread. In Mexico, people enjoy tortas, a type of sandwich made with soft bread and filled with meats, cheese, and vegetables. While both are sandwiches, tortas are usually bigger and have more fillings than peanut butter and jelly sandwiches. No matter how they’re made, sandwiches are a tasty treat worldwide!",
+      "correct": 2
+  },
+  {
+      "questionNo": "Q7.",
+      "question": "Where are peanut butter and jelly sandwiches popular?",
+      "options": [
+          "Mexico",
+          "Italy",
+          "Poland",
+          "United States"
+      ],
+      "content":"People love sandwiches everywhere, but different countries make them in different ways. For example, in the United States, people often eat peanut butter and jelly sandwiches. These are made with peanut butter and sweet jelly spread between two slices of bread. In Mexico, people enjoy tortas, a type of sandwich made with soft bread and filled with meats, cheese, and vegetables. While both are sandwiches, tortas are usually bigger and have more fillings than peanut butter and jelly sandwiches. No matter how they’re made, sandwiches are a tasty treat worldwide!",
+      "correct": 3
+  },
+  {
+      "questionNo": "Q8.",
+      "question": "How are tortas different from peanut butter and jelly sandwiches?",
+      "options": [
+          "Tortas are not sandwiches",
+          "Tortas are usually smaller",
+          "Tortas have more fillings",
+          "Tortas are always sweet"
+      ],
+      "content":"People love sandwiches everywhere, but different countries make them in different ways. For example, in the United States, people often eat peanut butter and jelly sandwiches. These are made with peanut butter and sweet jelly spread between two slices of bread. In Mexico, people enjoy tortas, a type of sandwich made with soft bread and filled with meats, cheese, and vegetables. While both are sandwiches, tortas are usually bigger and have more fillings than peanut butter and jelly sandwiches. No matter how they’re made, sandwiches are a tasty treat worldwide!",
+      "correct": 2
+  },
+  {
+      "questionNo": "Q9.",
+      "question": "What word does the sandwich text use to show a contrast between the two types of sandwiches?",
+      "options": [
+          "While",
+          "Similarly",
+          "Also",
+          "Because"
+      ],
+      "content":"People love sandwiches everywhere, but different countries make them in different ways. For example, in the United States, people often eat peanut butter and jelly sandwiches. These are made with peanut butter and sweet jelly spread between two slices of bread. In Mexico, people enjoy tortas, a type of sandwich made with soft bread and filled with meats, cheese, and vegetables. While both are sandwiches, tortas are usually bigger and have more fillings than peanut butter and jelly sandwiches. No matter how they’re made, sandwiches are a tasty treat worldwide!",
+      "correct": 0
+  },
+  {
+      "questionNo": "Q10.",
+      "question": "How does the sandwich text help us understand the concept of 'contrast'?",
+      "options": [
+          "By using lots of adjectives",
+          "By only talking about one type of sandwich",
+          "By showing how two sandwiches are different in size and fillings",
+          "By explaining the history of sandwiches"
+      ],
+      "content":"People love sandwiches everywhere, but different countries make them in different ways. For example, in the United States, people often eat peanut butter and jelly sandwiches. These are made with peanut butter and sweet jelly spread between two slices of bread. In Mexico, people enjoy tortas, a type of sandwich made with soft bread and filled with meats, cheese, and vegetables. While both are sandwiches, tortas are usually bigger and have more fillings than peanut butter and jelly sandwiches. No matter how they’re made, sandwiches are a tasty treat worldwide!",
+      "correct": 2
+  },
+  {
+      "questionNo": "Q11.",
+      "content":"Scientists invented telescopes and microscopes to look at things they can't see with their eyes. A telescope is used to look at distant objects. On the other hand, a microscope helps people see extremely small things. Telescopes and microscopes work in a similar way. They use curved pieces of glass to make things look larger than they are. They allow people to see small details in the faraway or tiny objects they are viewing.",
+      "question": "What do telescopes and microscopes have in common?",
+      "options": [
+          "They both look at distant objects",
+          "They both use curved pieces of glass",
+          "They both look at extremely small things",
+          "They both were invented by the same person"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q12.",
+      "content":"Scientists invented telescopes and microscopes to look at things they can't see with their eyes. A telescope is used to look at distant objects. On the other hand, a microscope helps people see extremely small things. Telescopes and microscopes work in a similar way. They use curved pieces of glass to make things look larger than they are. They allow people to see small details in the faraway or tiny objects they are viewing.",
+      "question": "What is the main difference between telescopes and microscopes?",
+      "options": [
+          "Only telescopes use glass",
+          "Microscopes are used for distant objects",
+          "Telescopes are used for distant objects, microscopes for tiny things",
+          "Only microscopes make things look larger"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q13.",
+      "content":"Scientists invented telescopes and microscopes to look at things they can't see with their eyes. A telescope is used to look at distant objects. On the other hand, a microscope helps people see extremely small things. Telescopes and microscopes work in a similar way. They use curved pieces of glass to make things look larger than they are. They allow people to see small details in the faraway or tiny objects they are viewing.",
+      "question": "How does the telescope and microscope text compare these two instruments?",
+      "options": [
+          "By listing all the differences first",
+          "By only talking about their similarities",
+          "By mentioning a similarity in how they work",
+          "By describing their inventors"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q14.",
+      "content":"Scientists invented telescopes and microscopes to look at things they can't see with their eyes. A telescope is used to look at distant objects. On the other hand, a microscope helps people see extremely small things. Telescopes and microscopes work in a similar way. They use curved pieces of glass to make things look larger than they are. They allow people to see small details in the faraway or tiny objects they are viewing.",
+      "question": "How does the telescope/microscope text show similarity between the two instruments?",
+      "options": [
+          "By saying they're both used in space",
+          "By mentioning they both use curved glass",
+          "By stating they're both the same size",
+          "By explaining they're both used underwater"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q15.",
+      "content":"Scientists invented telescopes and microscopes to look at things they can't see with their eyes. A telescope is used to look at distant objects. On the other hand, a microscope helps people see extremely small things. Telescopes and microscopes work in a similar way. They use curved pieces of glass to make things look larger than they are. They allow people to see small details in the faraway or tiny objects they are viewing.",
+      "question": "Which phrase/word is used in the text to show the contrast between microscope and telescope?",
+      "options": [
+          "On the other hand",
+          "While",
+          "Similarly",
+          "Both"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q16.",
+      
+      "question": "Choose the correct spelling:",
+      "options": [
+          "Teliscope",
+          "Teleescope",
+          "Telecope",
+          "Telescope"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q17.",
+      
+      "question": "Identify the adjective in the given sentence: 'A telescope is used to look at distant objects.'",
+      "options": [
+          "Telescope",
+          "Is",
+          "Distant",
+          "Look"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q18.",
+      
+      "question": "Which word is often used to show things are alike?",
+      "options": [
+          "But",
+          "Both",
+          "However",
+          "Unlike"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q19.",
+     
+      "question": "Which word can replace 'but' in a sentence to show contrast?",
+      "options": [
+          "Also",
+          "Both",
+          "Similarly",
+          "However"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q20.",
+     
+      "question": "Which word tells us that more similar information is coming?",
+      "options": [
+          "Unlike",
+          "However",
+          "Also",
+          "But"
+      ],
+      "correct": 2
+  }
+]
